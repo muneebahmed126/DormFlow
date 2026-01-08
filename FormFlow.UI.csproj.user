@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuestDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UC_AdminManageBookings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_AdminManageRequests.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_AllEmployees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_AllStudents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_ContactDirectory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_HostelBooking.Designer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_ManageRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_MyFees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_MyRoomDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NewEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NewStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_PayFees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_StudentFees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_StudentRequest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_UpdateDeleteEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_UpdateDeleteStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_ViewAllRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
